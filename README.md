@@ -1,3 +1,10 @@
+![image](https://github.com/semihdursungul/react-projects/assets/114025283/e00bd575-ed73-4ab5-bd50-c8a78bf0a05f)
+**Simple To-Do List app by using React**
+
+I did not included node_modules folder due to its size but when you install nodejs and create new project, it will be under your projects folder.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
