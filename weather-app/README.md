@@ -1,3 +1,7 @@
+**I DON'T HAVE LICENSE FOR HOURLY AND DAILY FORECAST ON OPENWEATHER APP BUT IT SHOULD WORK PROPERLY IF YOU PUT YOUR API_KEY CORRECT**
+
+
+
 ![reactweather](https://github.com/semihdursungul/react_projects/assets/114025283/4e07b432-b37b-4b8e-b4fb-1ef9ac90a756)
 
 **1. Set up the React project:**
