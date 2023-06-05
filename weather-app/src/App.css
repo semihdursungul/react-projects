@@ -1,0 +1,100 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+input[type='text'] {
+  width: 300px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.weather-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.weather-card__location {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.weather-card__temperature {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.weather-card__description {
+  font-size: 20px;
+}
+
+.weather-card__humidity {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.weather-card__error {
+  color: red;
+  font-weight: bold;
+}
+
+.forecast {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.forecast__item {
+  flex: 1;
+  padding: 10px;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.map-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.chart-container {
+  margin-top: 20px;
+  height: 400px;
+}
